@@ -153,9 +153,9 @@
 .right_article3{
 	width: 10%;
 	float: left;
-	margin-top: 50px;
+	margin-top: 49px;
 	
-	right: 100px;
+	right: 575px;
 
 	
 }
@@ -164,7 +164,7 @@
 	width: 10%;
 	float: left;
 	margin-top: 160px;
-	border-right: 60px;
+	right: 470px;
 	
 	
 }
@@ -173,7 +173,7 @@
 	width: 10%;
 	float: left;
 	margin-top: 275px;
-	
+	right: 350px;
 }
 
 
@@ -213,6 +213,10 @@
 .footer {
 	background-color: #717070;
 }
+
+
+
+
 .title {
 	font-weight: bold;
 	font-style: normal;
@@ -617,21 +621,21 @@ body {
 	
 }
 
-.right_article6{
+ .footer.right_article6{
 	width: 10%;
 	float: left;
 	margin-top: 0px;
 	
 }
 
-.right_article7{
-	width: 10%;
+.footer.right_article7{
+	width: 10px;
 	float: left;
 	
 	
 }
 
-.right_article8{
+.footer.right_article8{
 	width: 10%;
 	float: left;
 	
@@ -643,4 +647,9 @@ body {
 
 
 #menu {
+}
+
+
+#rodape{
+	
 }
